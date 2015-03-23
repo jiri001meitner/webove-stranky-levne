@@ -757,6 +757,63 @@ footer a:hover {
   color: #444;
 }
 
+.googleplus {
+    text-decoration: none;
+    text-align: justify;
+    background-color: #DD4B39;
+    color: #fff;
+    font-size: 125%;
+    letter-spacing: -.05em;
+}
+.facebook {
+    text-decoration: none;
+    text-align: justify;
+    background-color: #4B67A1;
+    color: #fff;
+    font-size: 125%;
+    letter-spacing: -.05em;
+}
+.twitter {
+    text-decoration: none;
+    text-align: justify;
+    background-color: #00ACEE;
+    color: #fff;
+    font-size: 125%;
+    letter-spacing: -.05em;
+}
+.googleplus:hover {
+    text-decoration: none;
+    text-align: justify;
+    background-color: transparent;
+    color: #DD4B39;
+    font-size: 125%;
+    letter-spacing: -.05em;
+}
+.facebook:hover {
+    text-decoration: none;
+    text-align: justify;
+    background-color: transparent;
+    color: #4B67A1;
+    font-size: 125%;
+    letter-spacing: -.05em;
+}
+.twitter:hover {
+    text-decoration: none;
+    text-align: justify;
+    background-color: transparent;
+    color: #00ACEE;
+    font-size: 125%;
+    letter-spacing: -.05em;
+}
+
+.left {text-align: left;}
+.center {text-align: center;}
+.right {text-align: right;}
+
+/*barva vybraného textu*/
+::selection         { background:#6699FF; color: #fff; }
+::-moz-selection { background:#6699FF; color: #fff; }
+
 /* MISC */
 .clearfix:after {
   display: block;
