@@ -1,0 +1,7 @@
+User-agent: *
+Disallow: /en
+Disallow: /te
+
+Allow: /
+
+Sitemap: http://webovky-levne.eu/sitemap.xml
