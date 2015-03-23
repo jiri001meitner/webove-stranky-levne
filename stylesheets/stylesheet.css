@@ -784,7 +784,7 @@ footer a:hover {
 .googleplus:hover {
     text-decoration: none;
     text-align: justify;
-    background-color: transparent;
+    background-color: white;
     color: #DD4B39;
     font-size: 125%;
     letter-spacing: -.05em;
@@ -792,7 +792,7 @@ footer a:hover {
 .facebook:hover {
     text-decoration: none;
     text-align: justify;
-    background-color: transparent;
+    background-color: white;
     color: #4B67A1;
     font-size: 125%;
     letter-spacing: -.05em;
@@ -800,7 +800,7 @@ footer a:hover {
 .twitter:hover {
     text-decoration: none;
     text-align: justify;
-    background-color: transparent;
+    background-color: white;
     color: #00ACEE;
     font-size: 125%;
     letter-spacing: -.05em;
