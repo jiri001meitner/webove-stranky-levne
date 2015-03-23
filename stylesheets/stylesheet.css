@@ -543,6 +543,7 @@ aside a.button {
   margin-bottom: 20px;
   font-size: 21px;
 /*  background: transparent url(../images/download-button.png) 0 0 no-repeat;*/
+background-color: #4cb6fc
 }
 
 code, pre {
