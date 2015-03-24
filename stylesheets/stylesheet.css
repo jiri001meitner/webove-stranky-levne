@@ -463,7 +463,7 @@ header h1 {
   width: auto;
   margin-top: 0;
   margin-bottom: 0.2em;
-  font-size: 130%;
+  font-size: 200%;
   font-weight: normal;
   line-height: 1;
   color: #fff;
@@ -475,7 +475,7 @@ header h2 {
   width: auto;
   margin-top: 0;
   margin-bottom: 0;
-  font-size: 120%;
+  font-size: 150%;
   font-weight: normal;
   line-height: 1.3;
   color: #9ddcff;
