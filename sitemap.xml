@@ -11,5 +11,7 @@
 <url>
   <loc>http://webovky-levne.eu/index</loc>
 </url>
-
+<url>
+  <loc>http://wordpress.webovky-levne.eu/sitemap_index.xml</loc>
+</url>
 </urlset>
