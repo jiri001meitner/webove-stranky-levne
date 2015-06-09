@@ -12,7 +12,7 @@
   <loc>http://webovky-levne.eu/index</loc>
 </url>
 <url>
-  <loc>http://wordpress.webovky-levne.eu/sitemap_index.xml</loc>
+  <loc>http://wordpress.webovky-levne.eu/feed/atom/</loc>
 </url>
 <url>
   <loc>http://webovky-levne.eu/bezpecny-web</loc>
